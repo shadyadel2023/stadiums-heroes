@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.finalistsporveturizm.com	TRUE	/	FALSE	1999999999	ci_session	e28659e7c761eea1860da709fda054681ead50c3
+
